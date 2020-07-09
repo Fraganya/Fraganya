@@ -1,3 +1,7 @@
 # Hi , 
 
-I make web things , i sleep a lot and i watch TV.
+All you need to know about me
+
+- I make web things
+- I love FOSS.
+- I'm catholic
