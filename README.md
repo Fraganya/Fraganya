@@ -1,6 +1,6 @@
 # Hi , 
 
-All you need to know about me
+Here are three things about me:
 
 - I make web things
 - I love FOSS.
