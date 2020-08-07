@@ -6,8 +6,7 @@ Here are three things about me:
 - I love FOSS.
 - I'm catholic
 
-## Fast Facts
-JSON 
+Fast Facts 
 ---------------
 
 ```json
