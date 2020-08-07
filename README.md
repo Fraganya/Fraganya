@@ -1,10 +1,10 @@
-# Hi , 
+# Hi :smiley:
 
 Here are three things about me:
 
 - I make web things
 - I love FOSS.
-- I'm catholic
+- I'm catholic :pray:
 
 Fast Facts 
 ---------------
@@ -13,10 +13,18 @@ Fast Facts
 {
     "portifolio":"http://fraganya.tech",
     "langs": [
-        "C++","PHP","JS","Python","Dart"
+        "C++",
+        "PHP",
+        "JS",
+        "Python",
+        "Dart"
     ],
     "frameworks":[
-        "Laravel","Slim","React.JS","Vue.jS","Django","Flutter"
+        "Laravel",
+        "Slim",
+        "React.JS",
+        "Vue.jS",
+        "Django","Flutter"
     ]
 }
 ```
