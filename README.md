@@ -20,11 +20,12 @@ Fast Facts
         "Dart"
     ],
     "frameworks":[
+        "Qt",
         "Laravel",
         "Slim",
         "React.JS",
-        "Vue.jS",
-        "Django","Flutter"
+        "Django",
+        "Flutter"
     ]
 }
 ```
