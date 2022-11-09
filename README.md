@@ -11,7 +11,7 @@ Fast Facts
 
 ```json
 {
-    "portifolio":"http://fraganya.tech",
+    "portifolio":"http://fraganya.com",
     "langs": [
         "C++",
         "PHP",
