@@ -4,7 +4,7 @@ Here are three things about me:
 
 - I make web things
 - I love FOSS.
-- I am a life's student
+- I am life's student
 
 
 Fast Facts 
