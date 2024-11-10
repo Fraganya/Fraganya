@@ -1,10 +1,13 @@
 # Hi :smiley:
 
-Here are three things about me:
+I am Francis, a wanna-be software engineer passionate about web development and AI. 
 
-- I make web things
+Here are three (+1) things about me:
+
+- I make web things.
 - I love FOSS.
-- I am life's student
+- I am life's student.
+- I have a simple mindset, I just want to work with great people.
 
 
 Fast Facts 
@@ -12,7 +15,7 @@ Fast Facts
 
 ```json
 {
-    "portifolio":"http://fraganya.tech",
+    "portifolio":"https://fraganya.tech",
     "langs": [
         "C++",
         "PHP",
@@ -24,8 +27,8 @@ Fast Facts
     "frameworks":[
         "Qt",
         "Laravel",
-        "Slim",
         "React.JS",
+        "Next.JS",
         "Django",
         "Flutter"
     ]
